@@ -8,10 +8,10 @@ export default {
   },
   devtool : 'source-map',
   resolve: {
-    extensions: ['', '.js', '.jsx']
+    extensions: ['.js', '.json', '.css']
   },
   module : {
-    loaders : [
+    rules : [
       {
         test : /\.jsx?$/,
         exclude : /node_modules/,

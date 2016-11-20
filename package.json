@@ -19,8 +19,8 @@
     "babel-runtime": "^6.11.6",
     "react-hot-loader": "^3.0.0-beta.5",
     "redux-logger": "^2.7.0",
-    "webpack": "^1.13.2",
-    "webpack-dev-server": "^1.15.2"
+    "webpack": "v2.1.0-beta.25",
+    "webpack-dev-server": "v2.1.0-beta.10"
   },
   "dependencies": {
     "react": "^15.3.1",
